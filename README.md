@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Arpit
 
-<!--
-**arpitsingh97096-debug/arpitsingh97096-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
+-  CSE Student
+-  Interested in AI/ML
+-  Building in public
 
-Here are some ideas to get you started:
+## 🌐 Connect with me
+[LinkedIn](https://www.linkedin.com/in/arpit-singh-0372a9329/) | [Instagram](your-link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Stack
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-orange)
