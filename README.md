@@ -52,15 +52,6 @@
 
 ---
 
-### Recipe Sharing Platform
-- Full-stack project for sharing and discovering recipes  
-- Focus on usability + structured backend  
-- CRUD operations with clean UI  
-
-🔗 
-
----
-
 ## GitHub Stats
 
 <p align="center">
