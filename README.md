@@ -33,16 +33,6 @@
 
 ## Featured Projects
 
-### AI Chatbot (Flask + Gemini API)
-- Real-time AI chatbot with persistent chat sessions  
-- Modular backend with service-based architecture  
-- Gemini API integration for dynamic responses  
-- Chat management (history, rename, delete)  
-
-🔗 https://github.com/arpitsingh97096-debug/ai-chatbot-nlp
-
----
-
 ### NLP-Based Chatbot System
 - Intent-based NLP chatbot using structured JSON  
 - Designed fallback + response handling logic  
