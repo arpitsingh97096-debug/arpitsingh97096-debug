@@ -89,8 +89,4 @@ Goal: Contribute consistently and get selected for **GSoC**
   </a>
 </p>
 
----
 
-## Philosophy
-
-> Build fast. Break things. Fix better. Repeat.
